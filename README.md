@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0283-move-zeroes) |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
