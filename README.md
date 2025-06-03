@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0932-monotonic-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0932-monotonic-array) |
 | [3194-find-words-containing-character](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3321-type-of-triangle) |
 ## Binary Search
