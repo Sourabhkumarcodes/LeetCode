@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [2083-three-divisors](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2083-three-divisors) |
 | [2752-sum-multiples](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3321-type-of-triangle) |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
