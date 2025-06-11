@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0932-monotonic-array) |
 | [3194-find-words-containing-character](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3321-type-of-triangle) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0792-binary-search) |
 ## Linked List
 |  |
 | ------- |
