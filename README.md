@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0932-monotonic-array) |
 | [3194-find-words-containing-character](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3321-type-of-triangle) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3321-type-of-triangle) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Sorting
 |  |
 | ------- |
