@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2083-three-divisors) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2491-smallest-even-multiple](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2556-convert-the-temperature](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2752-sum-multiples) |
