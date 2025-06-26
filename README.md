@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0932-monotonic-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3194-find-words-containing-character](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0007-reverse-integer) |
 | [0728-self-dividing-numbers](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1031-add-to-array-form-of-integer](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
