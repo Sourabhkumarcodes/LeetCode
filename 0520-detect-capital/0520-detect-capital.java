@@ -3,11 +3,10 @@ class Solution {
         if(word==null||word.isEmpty()){
             return false;
         }
-        if(word.length()==1){
-            return true;
-        }
-        String str1=new String(word);
-        str1=str1.toUpperCase();
+        // if(word.length()==1){
+        //     return true;
+        // }
+        String str1=word.toUpperCase();
         String str2=word.substring(0,1).toUpperCase() + word.substring(1).toLowerCase();
         String str3=word.toLowerCase();
         if(word.equals(str1)){
