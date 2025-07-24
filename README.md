@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0932-monotonic-array) |
+| [0944-smallest-range-i](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0944-smallest-range-i) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0189-rotate-array) |
 | [0728-self-dividing-numbers](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0944-smallest-range-i](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
