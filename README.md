@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0944-smallest-range-i](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1086-divisor-game](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1086-divisor-game](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -183,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
