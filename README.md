@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1651-shuffle-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2714-left-and-right-sum-differences](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3194-find-words-containing-character](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3321-type-of-triangle) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3194-find-words-containing-character](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
