@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3321-type-of-triangle) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [2571-find-the-pivot-integer](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
