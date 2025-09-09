@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1651-shuffle-string) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2083-three-divisors) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
