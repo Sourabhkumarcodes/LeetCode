@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3321-type-of-triangle) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3830-find-closest-person](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3830-find-closest-person) |
 ## Sorting
 |  |
 | ------- |
