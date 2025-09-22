@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3321-type-of-triangle) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1635-number-of-good-pairs](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0561-array-partition) |
 | [1635-number-of-good-pairs](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
