@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1078-remove-outermost-parentheses](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1651-shuffle-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
