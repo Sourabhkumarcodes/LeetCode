@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0944-smallest-range-i) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1580-shuffle-the-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1635-number-of-good-pairs) |
