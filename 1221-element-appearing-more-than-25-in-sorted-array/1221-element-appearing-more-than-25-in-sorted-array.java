@@ -8,9 +8,10 @@ class Solution {
         int cal=0;
         for(Map.Entry<Integer,Integer> entry:map.entrySet()){
             if(entry.getValue()>len){
-                cal=entry.getKey();
+                return entry.getKey();
+
             }
         }
-        return cal;
+        return -1;
     }
 }
