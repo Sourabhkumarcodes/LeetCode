@@ -341,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
