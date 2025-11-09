@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2083-three-divisors) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3336-water-bottles-ii) |
