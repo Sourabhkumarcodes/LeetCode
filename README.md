@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0204-count-primes) |
 | [0728-self-dividing-numbers](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0290-word-pattern) |
 | [0434-number-of-segments-in-a-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0260-single-number-iii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0067-add-binary) |
 | [1806-count-of-matches-in-tournament](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
