@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0075-sort-colors) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1086-divisor-game](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1086-divisor-game) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0561-array-partition) |
 | [2032-largest-odd-number-in-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2032-largest-odd-number-in-string) |
