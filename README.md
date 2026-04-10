@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
