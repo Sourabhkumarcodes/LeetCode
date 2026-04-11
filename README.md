@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0290-word-pattern) |
 | [0434-number-of-segments-in-a-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0520-detect-capital) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
