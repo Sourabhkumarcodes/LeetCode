@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0338-counting-bits) |
 | [1086-divisor-game](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0461-hamming-distance) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1610-xor-operation-in-an-array) |
