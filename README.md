@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0682-baseball-game) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0932-monotonic-array) |
 | [0944-smallest-range-i](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0944-smallest-range-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0561-array-partition) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [3321-type-of-triangle](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3321-type-of-triangle) |
 ## String
 |  |
