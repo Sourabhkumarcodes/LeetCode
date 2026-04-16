@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1051-height-checker) |
+| [1207-unique-number-of-occurrences](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1580-shuffle-the-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
