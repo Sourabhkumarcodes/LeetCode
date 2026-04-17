@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1580-shuffle-the-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0792-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3321-type-of-triangle](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3321-type-of-triangle) |
 ## String
 |  |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
