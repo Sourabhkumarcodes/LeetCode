@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1651-shuffle-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0792-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1894-merge-strings-alternately](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
