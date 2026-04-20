@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0561-array-partition) |
 | [2032-largest-odd-number-in-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 ## Counting Sort
 |  |
