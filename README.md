@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0551-student-attendance-record-i) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1051-height-checker) |
 | [1635-number-of-good-pairs](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1635-number-of-good-pairs) |
