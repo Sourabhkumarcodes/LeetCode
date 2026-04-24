@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2727-number-of-senior-citizens](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2833-furthest-point-from-origin](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1051-height-checker) |
 | [1635-number-of-good-pairs](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2833-furthest-point-from-origin](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
