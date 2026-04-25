@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0682-baseball-game) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0792-binary-search) |
+| [0832-flipping-an-image](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [0932-monotonic-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0932-monotonic-array) |
 | [0944-smallest-range-i](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0944-smallest-range-i) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [0953-reverse-only-letters](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Prefix Sum
 |  |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0461-hamming-distance) |
+| [0832-flipping-an-image](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Enumeration
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [1806-count-of-matches-in-tournament](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
