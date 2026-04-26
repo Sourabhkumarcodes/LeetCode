@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1580-shuffle-the-array](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0792-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [0953-reverse-only-letters](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1894-merge-strings-alternately](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3321-type-of-triangle](https://github.com/Sourabhkumarcodes/LeetCode/tree/master/3321-type-of-triangle) |
 ## String
 |  |
